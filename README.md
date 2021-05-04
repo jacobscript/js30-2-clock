@@ -1,1 +1,1 @@
-# js30-2-clock
+# Clock with vanilla javascript and css
